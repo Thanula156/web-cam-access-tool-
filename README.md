@@ -7,8 +7,11 @@ WARNING EDUCATION PURPOSES ONLY DO NOT USE FOR MALICIOUS ACTIVITIES
 first u need to install python and following modules
 
 pip install flask
+
 pip install requests
+
 pip install PyQt5
+
 pip install pyinstaller
 
 
@@ -24,4 +27,8 @@ taken webcam pictures are sent to the localhost:5000 URL
 you can access the photos using 
 
 /list
+
+
+
+
 /photos/{image name}
