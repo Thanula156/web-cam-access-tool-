@@ -6,7 +6,7 @@ from PyQt5.QtCore import Qt
 from PyQt5.QtMultimedia import QCamera, QCameraImageCapture
 
 # Backend URL
-UPLOAD_URL = " https://subfractionally-crenate-alison.ngrok-free.dev/upload"
+UPLOAD_URL = "{PASTE YOUR NGROK PUBLIC URL}"
 
 # -----------------------------
 # Calculator Window
@@ -110,5 +110,6 @@ if __name__ == "__main__":
     # Show only calculator window
     calculator_window = Calculator()
     calculator_window.show()
+
 
     sys.exit(app.exec_())
