@@ -1,6 +1,6 @@
 WARNING EDUCATION PURPOSES ONLY DO NOT USE FOR MALICIOUS ACTIVITIES
 
-
+THIS is a tool that can take pictures of the victim machine(Windows) using a script that disguise itself as a calculator but sent the secreatly taken pictures to a webserver
 
 
 
